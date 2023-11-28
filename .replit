@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hope for the Streets</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your external stylesheet -->
+</head>
+<body>
+
+    <header>
+        <h1>Hope for the Streets</h1>
+        <p>Mission: Empowering communities, one step at a time, by providing hope, resources, and support to those in need.</p>
+    </header>
+
+    <section>
+        <h2>Programs and Services</h2>
+        <ul>
+            <li>Education Initiatives</li>
+            <li>Community Development Projects</li>
+            <li>Health and Wellness Programs</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>Email: <a href="mailto:theeproject19@gmail.com">theeproject19@gmail.com</a></p>
+            <p>Tel: <a href="tel:+256708875844">+256 708875844</a>, <a href="tel:+256703718511">+256 703718511</a></p>
+        </div>
+    </section>
+
+    <section>
+        <h2>Donation Program</h2>
+        <p>Support our cause by making a donation. Click the link below to contribute:</p>
+        <a href="[Your donation link]" target="_blank">Donate Now</a>
+    </section>
+
+    <footer>
+        &copy; 2023 Hope for the Streets
+    </footer>
+
+</body>
+</html>
